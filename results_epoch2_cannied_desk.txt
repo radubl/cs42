@@ -1,0 +1,63 @@
+Model kNN
+Feature_set cannied_1_deskewed
+0.392619047619
+Feature_set cannied_3_deskewed
+0.645714285714
+Feature_set cannied_3_deskewed
+0.645714285714
+
+Model linSVC_C0.1
+Feature_set cannied_1_deskewed
+0.885476190476
+Feature_set cannied_3_deskewed
+0.865952380952
+Feature_set cannied_3_deskewed
+0.865952380952
+
+Model svc_rbf_C=0.1
+Feature_set cannied_1_deskewed
+0.779047619048
+Feature_set cannied_3_deskewed
+0.745714285714
+Feature_set cannied_3_deskewed
+0.745714285714
+
+Model random_forest
+Feature_set cannied_1_deskewed
+0.904047619048
+Feature_set cannied_3_deskewed
+0.886428571429
+Feature_set cannied_3_deskewed
+0.885952380952
+
+Model svc_poly_C=1.0
+Feature_set cannied_1_deskewed
+0.109047619048
+Feature_set cannied_3_deskewed
+0.109047619048
+Feature_set cannied_3_deskewed
+0.109047619048
+
+Model svc_rbf_C=1
+Feature_set cannied_1_deskewed
+0.893333333333
+Feature_set cannied_3_deskewed
+0.849523809524
+Feature_set cannied_3_deskewed
+0.849523809524
+
+Model adaB
+Feature_set cannied_1_deskewed
+0.585476190476
+Feature_set cannied_3_deskewed
+0.541428571429
+Feature_set cannied_3_deskewed
+0.541428571429
+
+Model linSVC_C1
+Feature_set cannied_1_deskewed
+0.867857142857
+Feature_set cannied_3_deskewed
+0.852380952381
+Feature_set cannied_3_deskewed
+0.852380952381

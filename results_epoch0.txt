@@ -1,0 +1,98 @@
+Model kNN
+Featuer_set deskewed.npy
+0.918333333333
+Featuer_set cropped_deskewed.npy
+0.889285714286
+Featuer_set cropped.npy
+0.830952380952
+Featuer_set cannied_deskewed.npy
+0.792857142857
+Featuer_set cannied_cropped_deskewed.npy
+0.482857142857
+Featuer_set cannied_cropped.npy
+0.285952380952
+Featuer_set gaussianed_deskewed.npy
+0.919523809524
+Featuer_set gaussianed_cropped_deskewed.npy
+0.890476190476
+Featuer_set gaussianed_cropped.npy
+0.839285714286
+Featuer_set hog_deskewed.npy
+0.658571428571
+
+
+
+Model random_forest
+Featuer_set deskewed.npy
+0.957857142857
+Featuer_set cropped_deskewed.npy
+0.94619047619
+Featuer_set cropped.npy
+0.933095238095
+Featuer_set gaussianed_deskewed.npy
+0.951666666667
+Featuer_set gaussianed_cropped_deskewed.npy
+0.947380952381
+Featuer_set gaussianed_cropped.npy
+0.935714285714
+Featuer_set hog_deskewed.npy
+0.949285714286
+
+Model svc_rbf_C=1
+Feature_set gaussianed_deskewed.npy
+0.940952380952
+Feature_set gaussianed_cropped_deskewed.npy
+0.918333333333
+Feature_set gaussianed_cropped.npy
+0.911904761905
+Feature_set hog_deskewed.npy
+0.930476190476
+
+Model linSVC
+Feature_set deskewed.npy
+0.890476190476
+Feature_set cropped_deskewed.npy
+0.784523809524
+Feature_set cropped.npy
+0.78
+Feature_set cannied_deskewed.npy
+0.865
+Feature_set cannied_cropped_deskewed.npy
+0.758333333333
+Feature_set cannied_cropped.npy
+0.673571428571
+Feature_set gaussianed_deskewed.npy
+0.920238095238
+Feature_set gaussianed_cropped_deskewed.npy
+0.870714285714
+Feature_set gaussianed_cropped.npy
+0.854761904762
+Feature_set hog_deskewed.npy
+0.973333333333
+
+Model svc_rbf_C=0.5
+Feature_set gaussianed_deskewed.npy
+0.932380952381
+Feature_set gaussianed_cropped_deskewed.npy
+0.909523809524
+Feature_set gaussianed_cropped.npy
+0.899285714286
+Feature_set hog_deskewed.npy
+0.859047619048
+
+Model svc_poly_C=1.0
+Feature_set deskewed.npy
+0.963095238095
+Feature_set cropped_deskewed.npy
+0.959285714286
+Feature_set cropped.npy
+0.945952380952
+
+
+To try:
+
+	Model svc_poly_C=1.0
+		Feature_set deskewed.npy
+
+	Model svc_rbf_C=1
+		Feature_set gaussianed_deskewed.npy

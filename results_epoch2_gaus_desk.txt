@@ -1,0 +1,63 @@
+Model kNN
+Feature_set gaussianed_0.2_deskewed
+0.829523809524
+Feature_set gaussianed_0.5_deskewed
+0.837142857143
+Feature_set gaussianed_0.8_deskewed
+0.845952380952
+
+Model linSVC_C0.1
+Feature_set gaussianed_0.2_deskewed
+0.930714285714
+Feature_set gaussianed_0.5_deskewed
+0.933571428571
+Feature_set gaussianed_0.8_deskewed
+0.934523809524
+
+Model svc_rbf_C=0.1
+Feature_set gaussianed_0.2_deskewed
+0.899047619048
+Feature_set gaussianed_0.5_deskewed
+0.894761904762
+Feature_set gaussianed_0.8_deskewed
+0.87619047619
+
+Model random_forest
+Feature_set gaussianed_0.2_deskewed
+0.958333333333
+Feature_set gaussianed_0.5_deskewed
+0.953095238095
+Feature_set gaussianed_0.8_deskewed
+0.953571428571
+
+Model svc_poly_C=1.0
+Feature_set gaussianed_0.2_deskewed
+0.164523809524
+Feature_set gaussianed_0.5_deskewed
+0.149761904762
+Feature_set gaussianed_0.8_deskewed
+0.128571428571
+
+Model svc_rbf_C=1
+Feature_set gaussianed_0.2_deskewed
+0.941428571429
+Feature_set gaussianed_0.5_deskewed
+0.940238095238
+Feature_set gaussianed_0.8_deskewed
+0.937619047619
+
+Model adaB
+Feature_set gaussianed_0.2_deskewed
+0.690714285714
+Feature_set gaussianed_0.5_deskewed
+0.635238095238
+Feature_set gaussianed_0.8_deskewed
+0.596428571429
+
+Model linSVC_C1
+Feature_set gaussianed_0.2_deskewed
+0.916904761905
+Feature_set gaussianed_0.5_deskewed
+0.926428571429
+Feature_set gaussianed_0.8_deskewed
+0.932857142857

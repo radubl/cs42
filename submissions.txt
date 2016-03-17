@@ -1,0 +1,2 @@
+0.98386									linSVG with deskewed,gaussianed - 0.4 HOG
+0.96529		Tue, 15 Mar 2016 12:49:17	simple 100-RF, no FE

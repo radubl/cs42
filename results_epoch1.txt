@@ -1,0 +1,47 @@
+Model kNN
+Feature_set vanilla
+0.768333333333
+Feature_set deskewed
+0.829523809524
+
+Model linSVC_C0.1
+Feature_set vanilla
+0.855238095238
+Feature_set deskewed
+0.891904761905
+
+Model svc_rbf_C=0.1
+Feature_set vanilla
+0.109047619048
+Feature_set deskewed
+0.109047619048
+
+Model random_forest
+Feature_set vanilla
+0.950238095238
+Feature_set deskewed
+0.960476190476
+
+Model svc_poly_C=1.0
+Feature_set vanilla
+0.948571428571
+Feature_set deskewed
+0.963095238095
+
+Model svc_rbf_C=1
+Feature_set vanilla
+0.109047619048
+Feature_set deskewed
+0.109047619048
+
+Model adaB
+Feature_set vanilla
+0.708571428571
+Feature_set deskewed
+0.697380952381
+
+Model linSVC_C1
+Feature_set vanilla
+0.861428571429
+Feature_set deskewed
+0.892142857143
